@@ -1,0 +1,7 @@
+name: CCHardcore
+version: '0.0.1'
+main: net.stedee.CCHardcore.CCHardcore
+api-version: '1.21'
+authors: [ Stedee ]
+description: Aym's cutesy little custom Minecraft plugin
+website: https://github.com/Stedee8722/CCHardcore
